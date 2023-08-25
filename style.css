@@ -116,10 +116,10 @@ header {
     padding: 20px 10px 20px 10px;
   }
   header .menu li a {
-    color: initial;
+    color: black;
     text-decoration: initial;
     color: white;
   }
   header .menu li:hover {
-    background-color: #01acea;
+    background: black;
   }
