@@ -1,0 +1,80 @@
+body{
+    background-color:rgba(0, 0, 0, 0.788);
+    color:white;
+}
+#imagem-fundo{
+    background: url('xiamen-824233_1280.jpg');
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+html,body{
+    margin: 0;
+}
+#titulo{
+    color:white;
+    padding-top: 20%;
+    font-size: 50px;
+    
+} 
+#subtitulo{
+    color: white;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+}
+#ação{
+    color: white;
+    border: 1px blue solid;
+    padding:10px 10px 10px 10px;
+}
+.foto{
+    width: 100%;
+    padding: 20px;
+}
+#projeto{
+    padding: 20px;
+
+
+}
+.igual{
+padding: 20px ;
+}
+.destaque{
+    padding: 20px;
+}
+.minha{
+    width: 300px;
+    padding: 20px;
+
+}
+.coluna{
+    float: left;
+    padding:  0 5%;
+    position: relative;
+    width: 40% ;
+}
+.justificado{
+    text-align: justify;
+}
+
+
+
+
+section{
+    padding: 20px;
+    float: left;
+    
+}
+.justificado{
+    text-align: justify;
+}
+footer{
+text-align: left;
+padding: 20px;
+
+}
+.destaque{
+text-align: left;
+}
