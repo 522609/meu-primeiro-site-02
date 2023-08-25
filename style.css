@@ -1,12 +1,14 @@
 body{
     background-color:rgba(0, 0, 0, 0.788);
     color:white;
+    padding:20 px;
+    margin-top:auto;
 }
 #imagem-fundo{
     background: url('xiamen-824233_1280.jpg');
     height: 100%;
     text-align: center;
-    background-size: cover;
+    background-image: cover;
 }
 html,body{
     margin: 0;
@@ -15,6 +17,7 @@ html,body{
     color:white;
     padding-top: 20%;
     font-size: 50px;
+    line-height:0.6;
     
 } 
 #subtitulo{
@@ -23,6 +26,7 @@ html,body{
     padding-left: 20%;
     padding-right: 20%;
     font-size: 30px;
+    border-top:3px solid white;
 }
 #ação{
     color: white;
