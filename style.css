@@ -2,7 +2,7 @@ body{
     background-color:rgba(0, 0, 0, 0.788);
     color:white;
     padding:20 px;
-    margin-top:auto;
+    
     
 }
 #imagem-fundo{
@@ -13,8 +13,7 @@ body{
 }
 html,body{
     margin: 0;
-    font-weight: 300;
-    font-family: Roboto, 'Open Sans', Arial, sans-serif;
+
     
 }
 #titulo{
@@ -30,7 +29,7 @@ html,body{
     padding-left: 20%;
     padding-right: 20%;
     font-size: 30px;
-     font-family: 'Roboto Slab', sans-serif;
+    
     
 }
 #ação{
