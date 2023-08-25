@@ -7,12 +7,15 @@ body{
 }
 #imagem-fundo{
     background: url('xiamen-824233_1280.jpg');
-    height: 300px ;
+    height: 100% ;
     text-align: center;
     background-size: cover;
 }
 html,body{
     margin: 0;
+    font-weight: 300;
+    font-family: Roboto, 'Open Sans', Arial, sans-serif;
+    
 }
 #titulo{
     color:white;
@@ -27,7 +30,8 @@ html,body{
     padding-left: 20%;
     padding-right: 20%;
     font-size: 30px;
-    border-top:3px solid white;
+     font-family: 'Roboto Slab', sans-serif;
+    
 }
 #ação{
     color: white;
